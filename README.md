@@ -1,4 +1,6 @@
 # React / Typescript / CSS Variable / Dark,Light Mode
+- styled components
+- media query
 
 # Getting Started with Create React App
 
