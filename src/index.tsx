@@ -1,11 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import RootStyle from './styles/root-style';
+import GlobalStyle from './styles/global-style';
 
 ReactDOM.render(
   <React.StrictMode>
+    <RootStyle />
+    <GlobalStyle />
     <App />
   </React.StrictMode>,
   document.getElementById('root')
