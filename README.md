@@ -1,5 +1,8 @@
 # React / Typescript / CSS Variable / Dark,Light Mode
 
+- styled components
+- media query 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
